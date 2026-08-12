@@ -10,6 +10,6 @@ print("Vamos desenhar")
 for x in range(idade):
 	print ("-", end="")
 
-main()
+aula2.main()
 
 print("Fim")
