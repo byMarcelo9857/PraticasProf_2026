@@ -11,3 +11,5 @@ for x in range(idade):
 	print ("-", end="")
 
 main()
+
+print("Fim")
