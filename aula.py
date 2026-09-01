@@ -4,7 +4,7 @@ nome = input("Digite seu nome ")
 idade = int(input("Digite sua idade "))
 print(f'Você digitou o nome {nome} e idade {idade}')
 
-print("Branch 1)
+print("Branch 3)
 print("Vamos desenhar")
 
 for x in range(idade):
